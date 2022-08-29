@@ -1,6 +1,6 @@
 
 ## Build
 ```bash
-$ androidjs b
+$ androidjs b -f
 ```
 
